@@ -1,0 +1,3 @@
+My computer crashed a few months back and the data from hard disk was not 
+recovered. So to cut a long story short I've had to restart from scratch in
+learning frontend development.
