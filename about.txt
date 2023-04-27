@@ -1,3 +1,12 @@
 My computer crashed a few months back and the data from hard disk was not 
 recovered. So to cut a long story short I've had to restart from scratch in
 learning frontend development.
+
+It's so true that if you don't practise something you will lose that skill, so 
+right now I'm practising doing changes and saving these changes to GITHUB using 
+the git commands in Terminal.
+
+        > git add .
+        > git commit -m "making changes to files and commiting them to repository"
+        > git push
+
