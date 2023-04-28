@@ -10,3 +10,4 @@ the git commands in Terminal.
         > git commit -m "making changes to files and commiting them to repository"
         > git push
 
+Started to practise with CSS in particular FLEX-BOX.
