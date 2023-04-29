@@ -15,3 +15,6 @@ Started to practise with CSS in particular FLEX-BOX.
 LAYOUT #1   display: flex; justify-content: space-between; align-items: center;
 
 LAYOUT #2   display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 30%;
+
+LAYOUT #3   display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 30%;
+
