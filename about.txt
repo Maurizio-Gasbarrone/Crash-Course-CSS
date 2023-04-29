@@ -12,10 +12,6 @@ the git commands in Terminal.
 
 Started to practise with CSS in particular FLEX-BOX.
 
-Started to practise with CSS layout scenarios using
-        display-flex
-        justify-content
-        align-items
-        flex-wrap
-        flex-direction
-and so on so on....
+LAYOUT #1   display: flex; justify-content: space-between; align-items: center;
+
+LAYOUT #2   display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 30%;
