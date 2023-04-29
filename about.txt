@@ -11,3 +11,11 @@ the git commands in Terminal.
         > git push
 
 Started to practise with CSS in particular FLEX-BOX.
+
+Started to practise with CSS layout scenarios using
+        display-flex
+        justify-content
+        align-items
+        flex-wrap
+        flex-direction
+and so on so on....
